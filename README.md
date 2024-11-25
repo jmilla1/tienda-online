@@ -69,3 +69,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # tienda-online
+
+# Tienda Online
+
+## Descripción
+Una aplicación React para gestionar una lista de productos y un carrito de compras.
+
+## Instalación
+```bash
+git clone https://github.com/jmilla1/tienda-online.git
+cd tienda-online
+npm install
+
+## Configuración de Firebase
+
+1. Crea un proyecto en [Firebase](https://firebase.google.com/).
+2. Habilita Firestore Database.
+3. Copia las credenciales de configuración y pégalas en `ContactForm.js`.
